@@ -6,6 +6,8 @@
  * Updated 11/2019 droh
  *   - Fixed sprintf() aliasing issue in serve_static(), and clienterror().
  */
+
+//컴퓨터 시스템 책 11장 연습문제 추가
 #include "csapp.h"
 
 
